@@ -2,7 +2,7 @@
 colors=[]
 def display_rainbow (colors)
 
-puts "#{colors[0].slice(0, 1)}: #{colors[0]} , #{colors[1].slice(0, 1).uppercase}: #{colors[1]}, #{colors[2].slice(0, 1).uppercase}: #{colors[2]}, #{colors[3].slice(0, 1).uppercase}: #{colors[3]} , #{colors[4].slice(0, 1).uppercase}: #{colors[4]}, #{colors[5].slice(0, 1).uppercase}: #{colors[5]}, #{colors[6].slice(0,1).uppercase}: #{colors[6]}"
+puts "R: #{colors[0]} , O: #{colors[1]}, Y: #{colors[2]}, G: #{colors[3]} , B: #{colors[4]}, I: #{colors[5]},V: #{colors[6]}"
 
 
 end
